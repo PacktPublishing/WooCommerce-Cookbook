@@ -1,5 +1,5 @@
 # WooCommerce-Cookbook
-# WooCommerce-Cookbook
+
 Chapter-wise code examples
 
 This is the code repository for [WooCommerce Cookbook](https://www.packtpub.com/web-development/woocommerce-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784394059), published by Packt Publishing. It contains all the supporting code files necessary to work through the book from start to finish.
