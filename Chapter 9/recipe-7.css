@@ -1,0 +1,7 @@
+.woocommerce button.button,
+.woocommerce input.button {
+	font-size: 1.2em;
+}
+.woocommerce button.single_add_to_cart_button {
+	text-shadow: 1px 1px 1px #333;
+}
